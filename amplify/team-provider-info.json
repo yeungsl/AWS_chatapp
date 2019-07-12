@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "awschat-dev-20190711155824-authRole",
+            "UnauthRoleArn": "arn:aws:iam::655646692940:role/awschat-dev-20190711155824-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::655646692940:role/awschat-dev-20190711155824-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "awschat-dev-20190711155824-deployment",
+            "UnauthRoleName": "awschat-dev-20190711155824-unauthRole",
+            "StackName": "awschat-dev-20190711155824",
+            "StackId": "arn:aws:cloudformation:us-east-1:655646692940:stack/awschat-dev-20190711155824/3daffbd0-a416-11e9-87b1-0af1b2bb447e"
+        },
+        "categories": {
+            "auth": {
+                "awschataafc27ff": {}
+            }
+        }
+    }
+}
